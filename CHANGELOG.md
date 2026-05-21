@@ -9,8 +9,15 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 ## [Unreleased]
 
 ### Planned
-- Day 9 — IAM users and policies
-- Day 10 — CloudWatch basics
+- Day 10 — IAM users and policies
+- Day 11 — CloudWatch basics
+
+---
+
+## 2026-05-21
+
+### Added
+- **Day 9** — Enable EC2 Termination Protection
 
 ---
 
