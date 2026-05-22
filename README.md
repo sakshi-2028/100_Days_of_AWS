@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Days%20Completed-9%2F100-success?style=for-the-badge" alt="Progress" />
+  <img src="https://img.shields.io/badge/Days%20Completed-10%2F100-success?style=for-the-badge" alt="Progress" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License" />
 </p>
 
@@ -29,9 +29,9 @@ Welcome! This is my **#100DaysOfAWS** learning journal. Each day I pick one AWS 
 
 ## 📅 Progress Tracker
 
-> **9 / 100 days complete**
+> **10 / 100 days complete**
 >
-> `▓▓░░░░░░░░░░░░░░░░░░  9%`
+> `▓▓░░░░░░░░░░░░░░░░░░  10%`
 
 | Day | Topic | Date | Quick Note |
 |:---:|:------|:----:|:-----------|
@@ -44,6 +44,7 @@ Welcome! This is my **#100DaysOfAWS** learning journal. Each day I pick one AWS 
 | 07 | [⚙️ Change EC2 Instance Type](./Day07_EC2_InstanceType.md) | 2026-05-15 | Resize compute |
 | 08 | [🛑 Enable EC2 Stop Protection](./Day08_EC2_StopProtection.md) | 2026-05-20 | Prevent accidental stop |
 | 09 | [🚫 Enable EC2 Termination Protection](./Day09_EC2_TerminationProtection.md) | 2026-05-21 | Prevent accidental terminate |
+| 10 | [📌 Attach Elastic IP to EC2](./Day10_EC2_ElasticIP.md) | 2026-05-22 | Static public IP |
 
 ---
 
@@ -52,7 +53,7 @@ Welcome! This is my **#100DaysOfAWS** learning journal. Each day I pick one AWS 
 | Category | What I Learned |
 |:--|:--|
 | 💻 **Compute** | EC2 launch, resize, stop protection, termination protection |
-| 🌐 **Networking** | VPC, Subnets, Security Groups |
+| 🌐 **Networking** | VPC, Subnets, Security Groups, Elastic IP |
 | 🔐 **Security** | Key Pairs, Stop Protection, Termination Protection |
 | 💾 **Storage** | S3 Versioning, EBS GP3 Volumes |
 
@@ -73,7 +74,8 @@ Welcome! This is my **#100DaysOfAWS** learning journal. Each day I pick one AWS 
 ├── Day06_EC2_Launch.md
 ├── Day07_EC2_InstanceType.md
 ├── Day08_EC2_StopProtection.md
-└── Day09_EC2_TerminationProtection.md
+├── Day09_EC2_TerminationProtection.md
+└── Day10_EC2_ElasticIP.md
 ```
 
 Each `DayXX_*.md` file follows the same clean template:

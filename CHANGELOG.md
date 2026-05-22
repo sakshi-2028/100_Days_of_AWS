@@ -9,8 +9,15 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 ## [Unreleased]
 
 ### Planned
-- Day 10 — IAM users and policies
-- Day 11 — CloudWatch basics
+- Day 11 — IAM users and policies
+- Day 12 — CloudWatch basics
+
+---
+
+## 2026-05-22
+
+### Added
+- **Day 10** — Attach an Elastic IP to an EC2 Instance
 
 ---
 
