@@ -9,8 +9,15 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 ## [Unreleased]
 
 ### Planned
-- Day 11 — IAM users and policies
-- Day 12 — CloudWatch basics
+- Day 12 — IAM users and policies
+- Day 13 — CloudWatch basics
+
+---
+
+## 2026-05-25
+
+### Added
+- **Day 11** — Attach an Elastic Network Interface (ENI) to an EC2 Instance
 
 ---
 
